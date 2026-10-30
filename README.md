@@ -1,3 +1,16 @@
+## 🔄 Firmware Updates & Support
+
+Thank you for choosing **GeekMagic**! ❤️
+
+We are committed to maintaining and improving this product with ongoing firmware updates, bug fixes, and new features.
+
+- 📦 **Firmware Updates:** Check this GitHub repository regularly for the latest firmware releases.
+- ⭐ **Love the Product?** We'd really appreciate a **4–5 star review**! Your feedback helps us grow and improve.
+- 🔖 **Stay Connected:** Please bookmark this repository and keep the product page link handy for future updates.
+- 📧 **Need Help?** If you encounter any issues or have suggestions, feel free to contact us at **geekmagic@163.com**. We'll do our best to find a solution for you.
+
+**Thank you for your support and for being part of the GeekMagic community!** 🚀
+
 # Radar 1.28 Firmware Downloads
 
 Official OTA firmware archive for the Radar 1.28 device.
