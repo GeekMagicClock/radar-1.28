@@ -33,7 +33,7 @@ This repository contains only customer upgrade firmware and English release note
 ## Latest Version
 
 
-**v3.3.5** — [Firmware and release notes](v3.3.5/)
+**v3.3.8** — [Firmware and release notes](v3.3.8/)
 
 
 ## OTA Upgrade
@@ -56,6 +56,7 @@ OTA updates preserve the existing device settings. Do not interrupt power during
 
 | Version | Release date | Download and notes |
 | --- | --- | --- |
+| v3.3.8 | 2026-11-09 | [Open](v3.3.8/) |
 | v3.3.5 | 2026-10-11 | [Open](v3.3.5/) |
 | v3.3.4 | 2026-10-08 | [Open](v3.3.4/) |
 | v3.3.3 | 2026-10-08 | [Open](v3.3.3/) |
